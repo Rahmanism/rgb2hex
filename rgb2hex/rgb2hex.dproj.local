@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008/08/06 18:04:39.470.pas,C:\Users\Rahmani\Documents\RAD Studio\Projects\Unit1.pas=D:\Delphi\rgb2hex\untMain.pas</Transaction>
+    <Transaction>2008/08/06 18:04:39.486.dfm,C:\Users\Rahmani\Documents\RAD Studio\Projects\Unit1.dfm=D:\Delphi\rgb2hex\untMain.dfm</Transaction>
+    <Transaction>2008/08/06 18:04:50.956.dproj,C:\Users\Rahmani\Documents\RAD Studio\Projects\Project1.dproj=D:\Delphi\rgb2hex\rgb2hex.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
